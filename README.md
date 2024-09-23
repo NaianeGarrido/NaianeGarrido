@@ -66,10 +66,7 @@ Here are some ideas to get you started:
 
 ###
 
-<br clear="both">
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<div align="center">
-  <img height="249" src="https://64.media.tumblr.com/e267cc94324c325919a7e17d78862e85/tumblr_n683qgNdJw1s8fkyqo1_400.gif"  />
-</div>
-
-###
+![](https://komarev.com/ghpvc/?username=naianegarrido)
