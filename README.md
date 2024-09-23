@@ -49,6 +49,11 @@ Here are some ideas to get you started:
 
 ###
 
+<img align="both" height="212" src="https://64.media.tumblr.com/e267cc94324c325919a7e17d78862e85/tumblr_n683qgNdJw1s8fkyqo1_400.gif"  />
+
+###
+
+
 <div align="center">
   <a href="mailto:garrido.naiane@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="38" alt="gmail logo"  />
