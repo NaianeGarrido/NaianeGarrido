@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Me Chamo Naiane, de São Paulo-BR, me especializando em front-end e back-end. <br>
+<p align="center">Me Chamo Naiane, atualmente moro em São Paulo-BR, e estou me especializando em front-end e back-end. </p>
 
-## No momento estou estudando</p>
+<h2 align="center">No momento estou estudando</h2>
 
 ###
 
@@ -49,11 +49,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="both" height="212" src="https://64.media.tumblr.com/e267cc94324c325919a7e17d78862e85/tumblr_n683qgNdJw1s8fkyqo1_400.gif"  />
-
-###
-
-
 <div align="center">
   <a href="mailto:garrido.naiane@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="38" alt="gmail logo"  />
@@ -69,6 +64,15 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="249" src="https://64.media.tumblr.com/e267cc94324c325919a7e17d78862e85/tumblr_n683qgNdJw1s8fkyqo1_400.gif"  />
+</div>
+
+###
 ###
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
