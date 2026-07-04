@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">Me Chamo Naiane, atualmente moro em São Paulo-BR, e estou me especializando em front-end e back-end. </p>
+<p align="center">Me Chamo Naiane, atualmente moro em São Paulo-BR, e estou me especializando em back-end e banco de dados. </p>
 
 <h2 align="center">No momento estou estudando</h2>
 
